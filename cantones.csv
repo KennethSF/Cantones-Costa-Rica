@@ -1,83 +1,83 @@
-nombre,poblacion,area,densidad
-San José,342188,44.62,7668.94
-Escazú,56509,34.49,1638.4
-Desamparados,235863,118.26,1994.4
-Puriscal,33004,553.66,59.61
-Tarrazú,16280,297.5,54.72
-Aserrí,61338,167.10,367.07
-Mora,29290,162.04,180.76
-Goicoechea,133557,31.5,4239.9
-Santa Ana,57378,61.42,934.19
-Alajuelita,89154,21.17,4211.34
-Vásquez de Coronado,68725,222.20,309.29
-Acosta,21335,342.24,62.34
-Tibás,82216,8.15,10087.8
-Moravia,61148,28.62,2136.5
-Montes de Oca,61661,15.16,4067.3
-Turrubares,6532,415.29,15.73
-Dota,6948,400.22,17.36
-Curridabat,77028,15.95,4829.34
-Pérez Zeledón,14229,1905.51,7.467
-León Cortés,12200,120.8,100.99
-Alajuela,297879,388.43,766.88
-San Ramón,80566,1018.64,79.09
-Grecia,76898,395.72,194.32
-Río Cuarto,15152,254.20,59.61
-San Mateo,7300,125.9,57.98
-Atenas,28112,127.19,221.02
-Naranjo,45005,126.62,355.43
-Palmares,37471,38.06,984.52
-Poás,30650,73.84,415.09
-Orotina,20341,141.92,143.33
-San Carlos,194.207,3347.98,0.06
-Zarcero,13215,155.13,85.19
-Sarchí,21235,120.25,176.59
-Upala,43953,1580.67,27.81
-Los Chiles,15962,1358.67,11.75
-Guatuso,17507,758.32,23.09
-Cartago,147898,287.7,514.07
-Paraíso,57743,41.191,1401.83
-La Unión,99400,44.8,2218.75
-Jiménez,14669,286.43,51.21
-Turrialba,69616,1642.67,42.38
-Alvarado,14312,81.06,176.56
-Oreamuno,45473,202.31,224.77
-El Guarco,41793,167.69,249.23
-Heredia,123616,282.60,437.42
-Barva,40660,53.80,755.76
-Santo Domingo,40072,1765.79,22.69
-Santa Bárbara,37428,53.21,703.40
-San Rafael,45965,48.39,949.89
-San Isidro,20633,26.96,765.32
-Belén,21633,12.15,1780.49
-Flores,20037,6.96,2878.87
-San Pablo,27671,7.53,3674.76
-Sarapiquí,57147,2140.54,26.7
-Liberia,72528,1567.67,46.26
-Nicoya,50825,1333.68,38.11
-Santa Cruz,64118,1312.27,48.86
-Bagaces,19536,1273.49,15.34
-Carrillo,41390,577.54,71.67
-Cañas,26201,682.20,38.41
-Abangares,18039,675.75,26.69
-Tilarán,19640,638.39,30.76
-Nandayure,11121,565.59,19.66
-La Cruz,19181,1383.9,13.86
-Hojancha,7197,261.42,27.53
-Puntarenas,130462,1842.33,70.81
-Esparza,28644,216.8,132.12
-Buenos Aires,45244,2384.22,18,98
-Montes de Oro,12950,244.76,52.90
-Osa,29433,1930.24,15.25
-Quepos,31133,543.77,57.25
-Golfito,39150,1753.96,22.32
-Coto Brus,38453,933.91,41.17
-Parrita,16115,478.79,33.66
-Corredores,41831,620.6,67.4
-Garabito,22767,316.31,71.98
-Limón,98459,1765.79,55.76
-Pococí,142171,2403.49,59.15
-Siquirres,56786,860.19,66.01
-Talamanca,39838,2809.93,14.18
-Matina,37721,772.64,48.82
-Guácimo,41266,576.48,71.58
+nombre,provincia,poblacion,area,densidad
+San José,San José,44.62,288054,644571
+Alajuela,Alajuela,388.43,254886,656.20
+Desamparados,San José,118.26,208411,1751.31
+San Carlos,Alajuela,3347.98,163745,48.91
+Cartago,Cartago,287.77,147898,513.95
+Pérez Zeledón,San José,1905.51,134534,70.60
+Pococí,Limón,2403.49,125962,52.41
+Heredia,Heredia,282.60,123616,437.42
+Puntarenas,Puntarenas,1842.33,115019,62.43
+Goicoechea,San José,31.50,115084,3653.46
+La Unión,Cartago,44.83,99399,2217.24
+Limón,Limón,1765.79,94415,53.47
+San Ramón,Alajuela,1018.64,80566,79.09
+Alajuelita,San José,21.17,77603,3665.71
+Turrialba,Cartago,1642.67,69616,42.38
+Grecia,Alajuela,141.52,65824,465.12
+Curridabat,San José,15.95,65206,4088.15
+Tibás,San José,8.15,64842,7956.07
+Liberia,Guanacaste,1436.47,62987,43.85
+Vásquez de Coronado,San José,222.20,60486,272.21
+Aserrí,San José,167.10,57892,346.45
+Paraíso,Cartago,411.91,57743,140.18
+Sarapiquí,Heredia,2140.54,57147,26.70
+Siquirres,Limón,860.19,56786,66.02
+Moravia,San José,28.62,56919,1988.78
+Escazú,San José,34.39,56509,1643.18
+Santa Cruz,Guanacaste,1312.27,55104,41.99
+Nicoya,Guanacaste,1333.68,50825,38.11
+Montes de Oca,San José,15.16,49132,3240.90
+Santa Ana,San José,61.42,49123,799.79
+San Rafael,Heredia,48.39,45965,949.89
+Oreamuno,Cartago,202.31,45473,224.77
+Buenos Aires,Puntarenas,2384.22,45244,18.98
+Upala,Alajuela,1580.67,43953,27.81
+Naranjo,Alajuela,126.62,42713,337.33
+Corredores,Puntarenas,620.60,41831,67.40
+El Guarco,Cartago,167.69,41793,249.23
+Guácimo,Limón,576.48,41266,71.58
+Barva,Heredia,53.80,40660,755.76
+Santo Domingo,Heredia,24.84,40072,1613.20
+Golfito,Puntarenas,1753.96,39150,22.32
+Coto Brus,Puntarenas,933.91,38453,41.17
+Matina,Limón,772.64,37721,48.82
+Carrillo,Guanacaste,577.54,37122,64.28
+Santa Bárbara,Heredia,53.21,36243,681.13
+Palmares,Alajuela,38.06,34716,912.14
+Puriscal,San José,553.00,33004,59.68
+Talamanca,Limón,2809.93,30712,10.93
+Osa,Puntarenas,1930.24,29433,15.25
+Poás,Alajuela,73.84,29199,395.44
+Esparza,Puntarenas,216.80,28644,132.12
+San Pablo,Heredia,7.53,27671,3674.77
+Quepos,Puntarenas,543.77,26861,49.40
+Mora,San José,162.04,26294,162.27
+Cañas,Guanacaste,682.20,26201,38.41
+Atenas,Alajuela,127.19,25460,200.17
+Los Chiles,Alajuela,1358.86,23735,17.47
+Belén,Heredia,12.15,21633,1780.49
+San Isidro,Heredia,26.96,20633,765.32
+Orotina,Alajuela,141.92,20341,143.33
+Acosta,San José,342.24,20209,59.05
+Flores,Heredia,6.96,20037,2878.88
+Tilarán,Guanacaste,638.39,19640,30.76
+Bagaces,Guanacaste,1273.49,19536,15.34
+La Cruz,Guanacaste,1383.90,19181,13.86
+Valverde Vega,Alajuela,120.25,18085,150.40
+Abangares,Guanacaste,675.76,18039,26.69
+Garabito,Puntarenas,316.31,17229,54.47
+Tarrazú,San José,297.50,16280,54.72
+Parrita,Puntarenas,478.79,16115,33.66
+Guatuso,Alajuela,758.32,15508,20.45
+Jiménez,Cartago,286.43,14669,51.21
+Alvarado,Cartago,81.06,14312,176.56
+Montes de Oro,Puntarenas,244.76,12950,52.91
+Zarcero,Alajuela,155.13,12205,78.68
+León Cortés,San José,120.80,12200,100.99
+Nandayure,Guanacaste,565.59,11121,19.66
+Río Cuarto,Alajuela,254.20,11074,43.56
+Hojancha,Guanacaste,261.42,7197,27.53
+Dota,San José,400.22,6948,17.36
+San Mateo,Alajuela,125.90,6136,48.74
+Turrubares,San José,415.29,5512,13.27
